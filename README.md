@@ -309,6 +309,7 @@ These providers handle ALL the setup for you — no Docker, no terminal, no DevO
 | **[Myclawhost](https://www.myclawhost.com/)** | $9-39 | Instant | Managed | Lite ($9), Pro ($19), Max ($39), full lifecycle | One-click deploy |
 | **[Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/)** | $4.95+ | Minutes | VPS | Unlimited workflows, full data ownership, predictable pricing | - |
 | **[Molty by Finna](https://molty.finna.ai)** | $19-99 | 30 sec | VM-isolated (Fly.io) | Multiple Molties per account, Mission Control (multi-agent coordination), GitHub backup sync, browser automation, auto-updates | 3-day free trial |
+| **[Clawployees](https://clawployees.com)** | $29-99 | 5 min | Managed | Up to 10 agents per account, role-based setup, approval rules before anything sends, agent email addresses, Slack/Telegram/WhatsApp channels | - |
 
 ### Setup-as-a-Service (Freelancers)
 
